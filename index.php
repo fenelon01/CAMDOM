@@ -21,13 +21,15 @@
             </div>
         </nav>
         <div class="content">
-            <h1>Make<br>New Friends</h1>
-            <p> Camdom Its a social web where you can meet people from the Dominican Repluc - Haiti and Miami.</p>
-            <a href="#" class="btn">Join Now</a>
+            <h1 class="anim">Make<br>New Friends</h1>
+            <p class="anim"> Camdom Its a social web where you can meet people from the Dominican Repluc - Haiti and Miami.</p>
+            <a href="#" class="btn anim">Join Now</a>
 
 
         </div>
+        <img src="/PHP PROJECT/images/pic.png" class="feature-img anim">
     </div>
 </body>
 </html>
+
 
